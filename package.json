@@ -1,0 +1,10 @@
+{
+    "name": "desafio-21-dias-rockeatset",
+    "private": true,
+    "workspaces": {
+        "packages": [
+            "challenges/*",
+            "site"
+        ]
+    }
+}
